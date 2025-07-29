@@ -29,7 +29,7 @@ h1, h2, h3, h4, .logo-font{
     background-size: cover;
 }
 /* 네비게이션 영역 */
-.nav-link.ative,
+.nav-link.active,
 .nav-link:hover {
     color: darkblue !important;
     font-weight: bold;
