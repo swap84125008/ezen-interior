@@ -35,3 +35,9 @@ h1, h2, h3, h4, .logo-font{
     color: darkblue !important;
     font-weight: bold;
 }
+.contact-bg{
+    background-image:url(../images/contact-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
